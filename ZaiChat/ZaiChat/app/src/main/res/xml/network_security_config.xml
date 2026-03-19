@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="false">
+        <domain includeSubdomains="true">chat.z.ai</domain>
+        <domain includeSubdomains="true">z.ai</domain>
+    </domain-config>
+</network-security-config>
